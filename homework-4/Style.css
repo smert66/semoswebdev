@@ -1,0 +1,29 @@
+﻿#div1 {
+    height: 50px;
+    width: 400px;
+    padding: 20px;
+    margin: 100px;
+    border: 4px solid black;
+    border-radius: 45px 30px 10px 0;
+    outline: 4px solid grey;
+    outline-offset: 10px;
+    box-shadow: rgba(153, 0, 0, 1) 25px 25px;
+}
+#div2 {
+    height: 50px;
+    width: 400px;
+    padding: 20px;
+    margin: 100px;
+    border: 4px solid black;
+    border-radius: 0 30px 70px 0;
+    box-shadow: rgba(153, 0, 0, 1) -5px -20px 10px;
+}
+
+#span1 {
+    font-size: 4em;
+    text-shadow: 2px 3px red;
+}
+#span2 {
+    font-size: 4em;
+    text-shadow: 4px 6px green;
+}
