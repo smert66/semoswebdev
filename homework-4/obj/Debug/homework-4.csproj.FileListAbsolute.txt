@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\homework-4\homework-4\bin\homework-4.dll.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\homework-4\homework-4\bin\homework-4.dll
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\homework-4\homework-4\bin\homework-4.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\homework-4\homework-4\obj\Debug\homework-4.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\homework-4\homework-4\obj\Debug\homework-4.dll
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\homework-4\homework-4\obj\Debug\homework-4.pdb
