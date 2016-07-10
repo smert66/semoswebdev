@@ -4,3 +4,9 @@ C:\Users\Stefan\Documents\Visual Studio 2013\Projects\homework-jquery\homework-j
 C:\Users\Stefan\Documents\Visual Studio 2013\Projects\homework-jquery\homework-jquery\obj\Debug\homework-jquery.csprojResolveAssemblyReference.cache
 C:\Users\Stefan\Documents\Visual Studio 2013\Projects\homework-jquery\homework-jquery\obj\Debug\homework-jquery.dll
 C:\Users\Stefan\Documents\Visual Studio 2013\Projects\homework-jquery\homework-jquery\obj\Debug\homework-jquery.pdb
+C:\Users\Stefan\semoswebdev\homework-jquery\homework-jquery\bin\homework-jquery.dll.config
+C:\Users\Stefan\semoswebdev\homework-jquery\homework-jquery\bin\homework-jquery.dll
+C:\Users\Stefan\semoswebdev\homework-jquery\homework-jquery\bin\homework-jquery.pdb
+C:\Users\Stefan\semoswebdev\homework-jquery\homework-jquery\obj\Debug\homework-jquery.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\semoswebdev\homework-jquery\homework-jquery\obj\Debug\homework-jquery.dll
+C:\Users\Stefan\semoswebdev\homework-jquery\homework-jquery\obj\Debug\homework-jquery.pdb
