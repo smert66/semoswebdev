@@ -1,4 +1,4 @@
-function main () {
+var main = function() {
     $('.arrow-next').click(function () {
         var currentSlide = $('.slide-active');
         var nextSlide = currentSlide.next();
@@ -57,7 +57,7 @@ function auto() {
 }
 
 $(document).ready(function(){
-    main();
-    
-    setInterval("auto()", 5000);
+    setInterval("auto()", 4000);
 });
+
+$(document).ready(main);
