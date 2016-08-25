@@ -36,7 +36,7 @@ var main = function () {
 };
 
 
-var auto = function() {
+function auto () {
     var currentSlide = $('.slide-active');
         var nextSlide = currentSlide.next();
         var currentDot = $('.dot-active');
@@ -56,5 +56,5 @@ var auto = function() {
 $(document).ready(main);
 
 $(document).ready(function(){
-    setInterval('auto', 4000);
+    setInterval('auto()', 4000);
 })
