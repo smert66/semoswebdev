@@ -1,4 +1,4 @@
-var main = function() {
+var main = {
     $('.arrow-next').click(function () {
         var currentSlide = $('.slide-active');
         var nextSlide = currentSlide.next();
