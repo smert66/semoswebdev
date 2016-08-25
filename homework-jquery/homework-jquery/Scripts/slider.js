@@ -35,6 +35,29 @@ function main () {
 
 };
 
+
+function auto() {
+         var currentSlide = $('.slide-active'); 
+4         var nextSlide = currentSlide.next(); 
+5         var currentDot = $('.dot-active'); 
+6         var nextDot = currentDot.next(); 
+7 
+ 
+8         if (nextSlide.length === 0) { 
+9             nextSlide = $('.slide').first(); 
+10             nextDot = $('.dot').first(); 
+11         } 
+12 
+ 
+13         currentSlide.fadeOut(600).removeClass('slide-active'); 
+14         nextSlide.fadeIn(600).addClass('slide-active'); 
+15         currentDot.removeClass('dot-active'); 
+16         nextDot.addClass('dot-active'); 
+
+}
+
 $(document).ready(function(){
-    setInterval("main()", 5000);
+    main();
+    
+    setInterval("auto()", 5000);
 });
